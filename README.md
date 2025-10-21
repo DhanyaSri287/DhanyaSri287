@@ -1,166 +1,96 @@
-<h1 align="center">👋 Hey there! I'm <span style="color:#a855f7;">Dhanya Sri S</span></h1>
+<h1 align="center">🌟 Dhanya Sri S | Software Developer & Full-Stack Enthusiast 💻</h1>
 
 <p align="center">
-  🎯 <b>Ambitious Software Developer</b> | 💻 Java & React.js Enthusiast | 🌐 Lifelong Learner
+  🚀 **Backend: Java | Spring Boot** | ⚛️ **Frontend: React.js** | ☁️ **Focus: Scalable & Secure Applications**
 </p>
 
 ---
 
-## 💫 Objective
+### 👩‍💻 About Me
 
-An ambitious and results-driven **Software Developer** with a strong foundation in **Java** and **React.js**, eager to contribute to building **scalable**, **efficient**, and **user-centric** applications.  
-I’m committed to continuous learning and thrive in **collaborative**, **fast-paced** environments that encourage growth and innovation.
-
----
-
-## 💡 Areas of Interest
-
-- 🧩 **Backend Development:** Crafting robust, high-performance applications and RESTful APIs using **Java** and **Spring Boot**.  
-- 🎨 **Frontend Development:** Designing modern, responsive, and accessible UIs using **React.js** and **Tailwind CSS** for seamless user experiences.
+I am an **ambitious and results-driven Software Developer** with a robust foundation in **Java** and **React.js**, committed to building **scalable, efficient, and user-centric applications**. I excel at leveraging the **Spring Boot** framework to develop high-performance **RESTful APIs** and crafting modern, accessible UIs using React with **Tailwind CSS**. My focus is on continuous learning and contributing to dynamic, collaborative development environments. I thrive on translating complex requirements into elegant, secure, and functional solutions.
 
 ---
 
-## 🎓 Education
+### 🎯 Areas of Core Expertise
 
-🎓 **Bachelor of Technology in Information Technology**  
-📍 *Dr. Mahalingam College of Engineering and Technology, Pollachi*  
-📅 *Expected Graduation: June 2027* | **CGPA: 9.1/10**
-
-🏫 **HSC – PKD Matriculation Higher Secondary School, Pollachi**  
-📅 *May 2023* | **91.83%**
-
-🏫 **SSLC – PKD Matriculation Higher Secondary School, Pollachi**  
-📅 *May 2021* | **All Pass**
+1.  **Backend Development:** Developing robust, high-performance applications and **RESTful APIs** using **Java** and the **Spring Boot** framework.
+2.  **Frontend Development:** Crafting modern, accessible, and responsive User Interfaces (UI) using **React.js** in conjunction with efficient styling frameworks like **Tailwind CSS**.
 
 ---
 
-## 🧠 Skills
+### 💻 Tech Stack
 
-### 💻 Technical Skills
-- **Programming Languages:** Java, Python, C  
-- **Frontend:** HTML, CSS, JavaScript, React.js, Tailwind CSS  
-- **Backend:** Spring Boot, REST APIs  
-- **Database:** MySQL  
-- **Version Control:** Git, GitHub  
-- **Tools:** VS Code, IntelliJ IDEA, NetBeans  
-
-### 🤝 Soft Skills
-- Effective Communication  
-- Analytical Problem-Solving  
-- Team Collaboration  
-- Adaptability & Creativity  
+| Category | Skills |
+| :--- | :--- |
+| **Backend & Core** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9C8?style=for-the-badge&logo=c&logoColor=black) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
+| **Database & Tools** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) |
 
 ---
 
-## 🚀 Projects
+### 🌟 Key Projects (Full-Stack Focus)
 
-### 🚖 Taxi Booking Website | *React.js, Tailwind CSS*
-- Built a **responsive, dynamic** taxi booking frontend using React.js.  
-- Implemented **state management** for real-time booking, fare estimation, and ride tracking.  
-- Designed an elegant, **mobile-first UI** using Tailwind CSS.
+#### 🛡️ Full-Stack Authentication System
+> **Tech Stack:** React.js, Spring Boot, SQL, Tailwind CSS
+* Implemented a secure, full-stack authentication flow using **React.js** (frontend) and **Spring Boot with SQL** (backend).
+* Integrated **JWT-based authentication** and authorization with features like login, signup, and password reset.
+* Ensured high security by utilizing **BCrypt hashing** and proper CORS configuration for safe frontend–backend communication.
 
----
-
-### 🔐 Authentication System | *React.js, Spring Boot, SQL, Tailwind CSS*
-- Developed a **secure authentication system** with JWT-based login, signup, and password reset.  
-- Integrated **Spring Boot REST APIs** with **SQL backend** for safe data handling.  
-- Used **BCrypt hashing** and **CORS configuration** for security and smooth frontend-backend communication.  
-- Styled with Tailwind CSS for a clean, responsive, and modern layout.
-
----
-
-## 💼 Internship Experience
-
-### 💻 React.js Developer Intern | *Awerum Software Solutions, Pollachi (June 2025)*
-- Built **interactive UI components** using React.js and Tailwind CSS.  
-- Collaborated with team members to optimize performance and **enhance responsiveness**.  
-
-### 💻 Web Development Intern | *Octanet Services Pvt. Ltd.*
-- Designed **responsive web applications** using HTML, CSS, and JavaScript.  
-
-### 📊 Data Analyst Intern | *Innobyte Services*
-- Created **interactive dashboards** using Python and Power BI for actionable insights.  
-
-### 🧩 Web Developer Intern | *CoderOne*
-- Contributed to real-world **frontend design and implementation** tasks.
+#### 🚕 Taxi Booking Website (Frontend)
+> **Tech Stack:** React.js, Tailwind CSS
+* Developed a fully **responsive and interactive frontend** interface for a taxi booking platform.
+* Implemented **state management** to handle dynamic data (booking details, fare estimates).
+* Used **Tailwind CSS** to create a clean, modern, and mobile-friendly design.
 
 ---
 
-## 🏅 Achievements & Certifications
+### 💼 Experience
 
-- 🏆 **National Semifinalist – Flipkart Grid 7.0**  
-- 🎓 **Linguaskill Business English (B2 Level)** – Cambridge Assessment English  
-- 💻 **Introduction to Java** – SoloLearn  
-- 🧩 **Elite Certification (C, Java) & Elite+Silver (EIA)** – NPTEL  
-- 🌐 **Infosys Springboard Certification** – HTML, CSS, JavaScript, Responsive Web Design  
-
----
-
-## 🎯 Extracurricular Activities
-
-- 🧠 **Placement Coordinator – INFOBEE (Dept. Association), Dr. MCET**  
-- 🤝 **Joint Secretary – UiPath Community, Dr. MCET**  
-- 💬 **Orientation Program Organizer & Reader’s Club Member**  
+| Role | Company | Highlights |
+| :--- | :--- | :--- |
+| **React.js Developer Intern** | **Awerum Software Solutions**, Pollachi | Developed interactive **UI components** using **React.js and Tailwind CSS** to enhance user experience and ensured **cross-device responsiveness** in collaboration with the design team. |
+| **Web Development Intern** | Octanet Services Pvt. Ltd. | Built responsive web applications using core **HTML, CSS & JavaScript** principles. |
+| **Data Analyst Intern** | Innobyte Services | Created insightful **dashboards** using **Python & Power BI** for data analytics insights. |
 
 ---
 
-## 💻 Tech Stack Overview
+### 🏆 Achievements & Certifications
 
-#### 🖥️ Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-#### ⚙️ Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-
-#### 🗄️ Database & Tools
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+* **National Semi-Finalist** in **FlipKart Grid 7.0**, demonstrating competitive programming and problem-solving skills.
+* **Linguaskill Business English – B2 Level** (Cambridge Assessment English).
+* **Elite Certificate** in C, Java, and **Elite+Silver Certification** in Environmental Impact Assessment (NPTEL).
+* **Infosys SpringBoard Certification** in HTML, CSS, JavaScript, and Responsive Web Design.
+* **Placement Coordinator** for INFOBEE (Department Association), showcasing leadership and organizational skills.
 
 ---
 
-## 🗣️ Languages
-🇬🇧 English | 🇮🇳 Tamil | 🇮🇳 Hindi  
+### 🎓 Education
+
+| Degree | Institution | CGPA/Percentage | Graduation |
+| :--- | :--- | :--- | :--- |
+| **B.Tech in Information Technology** | Dr. Mahalingam College of Engineering and Technology, Pollachi | **CGPA: 9.1** | June 2027 |
+| **HSC** | PKD Matriculation Higher Secondary School, Pollachi | **91.83%** | May 2023 |
 
 ---
 
-## 📫 Connect With Me  
+### 📬 Connect With Me
 
 <p align="center">
-  🌐 <b>Portfolio:</b> Coming Soon 🚧 <br>
   💼 <a href="https://linkedin.com/in/dhanya-sri-73a2952b7" target="_blank">LinkedIn</a> |
-  💻 <a href="https://github.com/DhanyaSri287" target="_blank">GitHub</a> |
   ✉️ <a href="mailto:dhanyasris96@gmail.com">Email</a> |
-  📱 <b>+91 8838027629</b>
+  💻 <a href="https://github.com/DhanyaSri287" target="_blank">GitHub</a>
 </p>
 
 ---
 
-## 💬 Quote I Believe In
-> “Code is like humor. When you have to explain it, it’s bad.” — Cory House
-
----
-
-## 📊 GitHub Insights
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DhanyaSri287&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhanyaSri287&layout=compact&theme=tokyonight" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DhanyaSri287&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DhanyaSri287&show_icons=true&theme=tokyonight&title_color=61DAFB&icon_color=61DAFB&text_color=FFFFFF&bg_color=1F242A" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhanyaSri287&layout=compact&theme=tokyonight&title_color=61DAFB&icon_color=61DAFB&text_color=FFFFFF&bg_color=1F242A" height="150"/>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DhanyaSri287&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile views"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=DhanyaSri287&theme=onedark&row=1&no-frame=true&margin-w=10" alt="Trophies"/>
 </p>
