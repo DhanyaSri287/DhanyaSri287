@@ -45,35 +45,6 @@ I am an **ambitious and results-driven Software Developer** with a robust founda
 
 ---
 
-### 💼 Experience
-
-| Role | Company | Highlights |
-| :--- | :--- | :--- |
-| **React.js Developer Intern** | **Awerum Software Solutions**, Pollachi | Developed interactive **UI components** using **React.js and Tailwind CSS** to enhance user experience and ensured **cross-device responsiveness** in collaboration with the design team. |
-| **Web Development Intern** | Octanet Services Pvt. Ltd. | Built responsive web applications using core **HTML, CSS & JavaScript** principles. |
-| **Data Analyst Intern** | Innobyte Services | Created insightful **dashboards** using **Python & Power BI** for data analytics insights. |
-
----
-
-### 🏆 Achievements & Certifications
-
-* **National Semi-Finalist** in **FlipKart Grid 7.0**, demonstrating competitive programming and problem-solving skills.
-* **Linguaskill Business English – B2 Level** (Cambridge Assessment English).
-* **Elite Certificate** in C, Java, and **Elite+Silver Certification** in Environmental Impact Assessment (NPTEL).
-* **Infosys SpringBoard Certification** in HTML, CSS, JavaScript, and Responsive Web Design.
-* **Placement Coordinator** for INFOBEE (Department Association), showcasing leadership and organizational skills.
-
----
-
-### 🎓 Education
-
-| Degree | Institution | CGPA/Percentage | Graduation |
-| :--- | :--- | :--- | :--- |
-| **B.Tech in Information Technology** | Dr. Mahalingam College of Engineering and Technology, Pollachi | **CGPA: 9.1** | June 2027 |
-| **HSC** | PKD Matriculation Higher Secondary School, Pollachi | **91.83%** | May 2023 |
-
----
-
 ### 📬 Connect With Me
 
 <p align="center">
