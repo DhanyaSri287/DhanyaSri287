@@ -1,7 +1,7 @@
 <h1 align="center">🌟 Dhanya Sri S | Software Developer & Full-Stack Enthusiast 💻</h1>
 
 <p align="center">
-  🚀 **Backend: Java | Spring Boot** | ⚛️ **Frontend: React.js** | ☁️ **Focus: Scalable & Secure Applications**
+  🚀 Backend: Java | Spring Boot | ⚛️ Frontend: React.js | ☁️ Focus: Scalable & Secure Applications
 </p>
 
 ---
@@ -57,11 +57,14 @@ I am an **ambitious and results-driven Software Developer** with a robust founda
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=DhanyaSri287&show_icons=true&theme=tokyonight&title_color=61DAFB&icon_color=61DAFB&text_color=FFFFFF&bg_color=1F242A" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhanyaSri287&layout=compact&theme=tokyonight&title_color=61DAFB&icon_color=61DAFB&text_color=FFFFFF&bg_color=1F242A" height="150"/>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DhanyaSri287&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile views"/>
+</p>
+<p align="right">
+  <img src="https://leetcode-stats-six.vercel.app/?username=dhanyasris96&theme=dark" alt="LeetCode Stats" height="150" />
 </p>
